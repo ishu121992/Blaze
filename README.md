@@ -1,0 +1,3 @@
+# Bluesense
+
+This application is part of an IOT based health monitoring and alert project. The app will be connected to a set of custom designed sensors which will monitor health parameters of patients in real time. The app will receive the data along with the GPS coordinate of the patient. The app will continuously monitor health parameters of patient against critical limits. In case of any emergency situation, the mobile app has a form which is filled by the patient during signin stages where the patient mentions name of close ones and doctors. The app triggers and generates alert SMS in case of any emergency and sends the GPS coordinates along with the critical health data to the concerned.
